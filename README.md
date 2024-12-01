@@ -15,11 +15,11 @@ The Talabat Project is a comprehensive application designed to facilitate delive
   - Get user information
   - Confirm email address
   - Send verification code
- 
-  - **User Management:**
+
+- **User Management:**
   - Complete CRUD operations for users
 
-  - **Role Management:**
+- **Role Management:**
   - Role management with complete CRUD operations
     
 - **Brands:**
