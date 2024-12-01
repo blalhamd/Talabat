@@ -73,3 +73,6 @@ To set up the project locally, follow these steps:
    - Open a web browser or an API testing tool (e.g., Postman).
    - Access the API endpoints using the base URL (http://localhost:port/api/v1/), where port is the port number configured in your development environment.
    - Refer to the API documentation or the source code for details on the available endpoints and their usage.
+
+## API Documentation
+
