@@ -44,3 +44,32 @@ The Talabat Project is a comprehensive application designed to facilitate delive
 - **Orders:**
   - Create an order
   - Get orders for a specific user
+ 
+## Technologies Used
+  - ASP.NET Core: The API is built using the ASP.NET Core framework, which provides a robust and scalable platform for web development.
+  - Entity Framework Core: Used for data access and database management, Entity Framework Core simplifies interacting with the database.
+  - SQL Server: The API utilizes SQL Server as the underlying database to store book and user information.
+  - Authentication and Authorization: The API employs token-based authentication using JSON Web Tokens (JWT) for secure user authentication and permission-based authorization.
+  - Payment Processing: Stripe API
+  - Caching: Redis
+
+## Getting Started
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/blalhamd/Talabat.git
+
+2. Set up the database:
+  - Create a new SQL Server database.
+  - Update the connection string in the appsettings.json file with your database credentials.
+
+3- Build and run the API:
+   - Open the solution in Visual Studio or your preferred development environment.
+   - Build the solution to restore NuGet packages and compile the project.
+   - Run the project, which will start the API server.
+   - 
+4- Explore the API:
+   - Open a web browser or an API testing tool (e.g., Postman).
+   - Access the API endpoints using the base URL (http://localhost:port/api/v1/), where port is the port number configured in your development environment.
+   - Refer to the API documentation or the source code for details on the available endpoints and their usage.
