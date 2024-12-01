@@ -12,8 +12,8 @@
         }
 
         [HttpPost]
-		[HasPermission(Permissions.CreateOrder)]
-		[ProducesResponseType(typeof(OrderResponse),StatusCodes.Status200OK)]
+	[HasPermission(Permissions.CreateOrder)]
+	[ProducesResponseType(typeof(OrderResponse),StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(CustomResponse),StatusCodes.Status404NotFound)]
 
         public async Task<OrderResponse> CreateOrderAsync(CreateOrderRequest request)
@@ -24,8 +24,8 @@
         }
 
         [HttpGet]
-		[HasPermission(Permissions.GetOrdersForUser)]
-		[ProducesResponseType(typeof(IList<OrderResponse>), StatusCodes.Status200OK)]
+	[HasPermission(Permissions.GetOrdersForUser)]
+	[ProducesResponseType(typeof(IList<OrderResponse>), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(CustomResponse), StatusCodes.Status404NotFound)]
         public async Task<IList<OrderResponse>> GetOrdersForUserAsync()
         {
@@ -34,8 +34,8 @@
             return await _orderService.GetOrdersForUserAsync(email!);
         }
 
-		[HttpGet("{orderId}")]
-		[HasPermission(Permissions.GetOrderById)]
+	[HttpGet("{orderId}")]
+	[HasPermission(Permissions.GetOrderById)]
         [ProducesResponseType(typeof(OrderResponse), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(CustomResponse), StatusCodes.Status404NotFound)]
         public async Task<OrderResponse> GetOrderByIdAsync(int orderId)
@@ -45,8 +45,8 @@
             return await _orderService.GetOrderByIdAsync(email!, orderId);
         }
 
-		[HttpGet("DeliveryMethods")]
-		[HasPermission(Permissions.GetDeliveryMethods)]
+	[HttpGet("DeliveryMethods")]
+	[HasPermission(Permissions.GetDeliveryMethods)]
         [ProducesResponseType(typeof(IList<DeliveryMethodDto>),StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(CustomResponse),StatusCodes.Status404NotFound)]
         public async Task<IList<DeliveryMethodDto>> GetDeliveryMethodsAsync()
