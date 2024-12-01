@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Email Template</title>
+    <style>
+        body {
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+
+        .ax-center {
+            display: block;
+            margin: 0 auto;
+        }
+
+        .my-10 {
+            margin: 10px 0;
+        }
+
+        .w-24 {
+            width: 50px;
+            height: 50px;
+        }
+
+        .card {
+            padding: 20px;
+        }
+
+        .h3 {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .fw-700 {
+            font-weight: 700;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img class="ax-center my-10 w-24" src="[imageUrl]" alt="Logo" />
+        <div class="card">
+            <h1 class="h3 fw-700">
+                [header]
+            </h1>
+            <p>
+                [TextBody]
+            </p>
+            <a class="btn" href="[link]" target="_blank">[Title]</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+@Talapat.API_HostAddress = http://localhost:5205
+
+GET {{Talapat.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
