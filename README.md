@@ -52,6 +52,7 @@ The Talabat Project is a comprehensive application designed to facilitate delive
   - Authentication and Authorization: The API employs token-based authentication using JSON Web Tokens (JWT) for secure user authentication and permission-based authorization.
   - Payment Processing: Stripe API
   - Caching: Redis
+  - Front-End: Angular https://github.com/blalhamd/Talabat-ECommerce-Angula.git
 
 ## Getting Started
 To set up the project locally, follow these steps:
