@@ -115,7 +115,7 @@ Login action to enable you to be authenticated and access the resourse
 {
   "firstName": "Bilal",
   "lastName": "Sayed",
-  "email": "blalhamd48@gmail.com",
+  "email": "blalhamd489@gmail.com",
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiZ2l2ZW5fbmFtZSI6IkJpbGFsIiwidW5pcXVlX25hbWUiOiJCaWxhbDEyMyIsImVtYWlsIjoiYmxhbGhhbWQ0OEBnbWFpbC5jb20iLCJyb2xlcyI6WyJBZG1pbiIsIlNlbmlvciIsIlRlYW1MZWFkIl0sInBlcm1pc3Npb25zIjpbIlVzZXJzOkdldEFsbCIsIlVzZXJzOkdldEJ5SWQiLCJVc2VyczpBZGQiLCJVc2VyczpFZGl0IiwiVXNlcnM6RGVsZXRlIiwiVXNlcnM6VW5Mb2NrIiwiUm9sZXM6R2V0QWxsIiwiUm9sZXM6R2V0QnlJZCIsIlJvbGVzOkFkZCIsIlJvbGVzOkVkaXQiLCJSb2xlczpEZWxldGUiLCJCYXNrZXRzOkdldEFsbCIsIkJhc2tldHM6R2V0QnlJZCIsIkJhc2tldHM6QWRkIiwiQmFza2V0czpFZGl0IiwiQmFza2V0czpEZWxldGUiLCJCcmFuZHM6R2V0QWxsIiwiQnJhbmRzOkdldEJ5SWQiLCJQcm9kdWN0czpHZXRBbGwiLCJQcm9kdWN0czpHZXRCeUlkIiwiUHJvZHVjdHM6QWRkIiwiUHJvZHVjdHM6RWRpdCIsIlByb2R1Y3RzOkRlbGV0ZSIsIlByb2R1Y3RUeXBlczpHZXRBbGwiLCJQcm9kdWN0VHlwZXM6R2V0QnlJZCJdLCJuYmYiOjE3MzMwMTEzMzUsImV4cCI6MTczMzAxMzEzNSwiaWF0IjoxNzMzMDExMzM1LCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MDUxIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NTAwMCJ9.nXWrBI1ZVdwHjAhCPVbOHiQC4I417pPeKs13aIrLbVU",
   "expireIn": 1800,
   "refreshToken": "TpY1HMb1ArjYNt5Gex06PNtVeh1UTWCEAEBGkZP04Cm38q2N9EuYY6Jv1B2WPUU2hrloieiFi5jw/RNf9ZT6Fg==",
@@ -309,7 +309,7 @@ To increase the time of authenicated
 {
   "firstName": "Bilal",
   "lastName": "Sayed",
-  "email": "blalhamd48@gmail.com",
+  "email": "blalhamd489@gmail.com",
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiZ2l2ZW5fbmFtZSI6IkJpbGFsIiwidW5pcXVlX25hbWUiOiJCaWxhbDEyMyIsImVtYWlsIjoiYmxhbGhhbWQ0OEBnbWFpbC5jb20iLCJyb2xlcyI6WyJBZG1pbiIsIlNlbmlvciIsIlRlYW1MZWFkIl0sInBlcm1pc3Npb25zIjpbIlVzZXJzOkdldEFsbCIsIlVzZXJzOkdldEJ5SWQiLCJVc2VyczpBZGQiLCJVc2VyczpFZGl0IiwiVXNlcnM6RGVsZXRlIiwiVXNlcnM6VW5Mb2NrIiwiUm9sZXM6R2V0QWxsIiwiUm9sZXM6R2V0QnlJZCIsIlJvbGVzOkFkZCIsIlJvbGVzOkVkaXQiLCJSb2xlczpEZWxldGUiLCJCYXNrZXRzOkdldEFsbCIsIkJhc2tldHM6R2V0QnlJZCIsIkJhc2tldHM6QWRkIiwiQmFza2V0czpFZGl0IiwiQmFza2V0czpEZWxldGUiLCJCcmFuZHM6R2V0QWxsIiwiQnJhbmRzOkdldEJ5SWQiLCJQcm9kdWN0czpHZXRBbGwiLCJQcm9kdWN0czpHZXRCeUlkIiwiUHJvZHVjdHM6QWRkIiwiUHJvZHVjdHM6RWRpdCIsIlByb2R1Y3RzOkRlbGV0ZSIsIlByb2R1Y3RUeXBlczpHZXRBbGwiLCJQcm9kdWN0VHlwZXM6R2V0QnlJZCJdLCJuYmYiOjE3MzMwMTQxMDksImV4cCI6MTczMzAxNTkwOSwiaWF0IjoxNzMzMDE0MTA5LCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MDUxIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NTAwMCJ9.lwjaGKGZmFOMewAmUxO4ayYCyvoqyoG8Xmz2axThYsA",
   "expireIn": 1800,
   "refreshToken": "f9+mK+xNKhVjjydOnMCtXyT0QTTV8UMy/Cim48lzKVwMJfhFpMaNzoWLCgvz29B0FqjRSDQQ/MOIn5qtzo2pGg==",
@@ -344,32 +344,8 @@ Fetching all available Brands
 ```json
 [
   {
-    "id": 1,
-    "name": "Starbucks"
-  },
-  {
-    "id": 2,
-    "name": "Costa"
-  },
-  {
-    "id": 3,
-    "name": "Cilantro"
-  },
-  {
-    "id": 4,
-    "name": "TBS"
-  },
-  {
-    "id": 5,
-    "name": "On The Run"
-  },
-  {
-    "id": 6,
-    "name": "Caribou"
-  },
-  {
-    "id": 7,
-    "name": "Krispy Kreme"
+    "id": 0,
+    "name": "string"
   }
 ]
 ```
@@ -391,7 +367,7 @@ Get specific Brand by Id
 ##### Request
 
 ```curl
-curl --location 'https://localhost:44315/api/Brands/2'
+curl --location '{{BaseUrl}}/api/Brands/2'
 
 ```
 
@@ -456,13 +432,13 @@ get all products and can specify specific brand,productType and pagination
 ```json
 [
   {
-    "id": 1,
-    "brandName": "Starbucks",
-    "productTypeName": "Frappuccino",
-    "name": "Double Caramel Frappuccino",
-    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-    "price": 200
+    "name": "string",
+    "description": "string",
+    "pictureUrl": "string",
+    "price": 0,
+    "id": 0,
+    "brandName": "string",
+    "productTypeName": "string"
   }
 ]
 ```
@@ -513,7 +489,7 @@ get all products and can specify specific brand,productType and pagination
 {
   "name": "Iphone 14",
   "description": "This device looks nearly flawless, with a few minor signs of use. There may be light scratches",
-  "pictureUrl": "https://i.ebayimg.com/images/g/O80AAOSwgm1mKX9S/s-l960.webp",
+  "pictureUrl": "s-l960.webp",
   "price": 15000,
   "brandId": 1,
   "productTypeId": 1
@@ -618,36 +594,8 @@ null
 ```json
 [
   {
-    "id": 1,
-    "name": "Frappuccino"
-  },
-  {
-    "id": 2,
-    "name": "Latte"
-  },
-  {
-    "id": 3,
-    "name": "Mocha"
-  },
-  {
-    "id": 4,
-    "name": "Macchiato"
-  },
-  {
-    "id": 5,
-    "name": "Matcha"
-  },
-  {
-    "id": 6,
-    "name": "Cake"
-  },
-  {
-    "id": 7,
-    "name": "Donuts"
-  },
-  {
-    "id": 8,
-    "name": "Salad"
+    "id": 0,
+    "name": "string"
   }
 ]
 ```
@@ -683,8 +631,8 @@ null
 
 ```json
 {
-  "id": 1,
-  "name": "Frappuccino"
+  "id": 0,
+  "name": "string"
 }
 ```
 
@@ -712,7 +660,7 @@ null
 {
   "firstName": "Bilal",
   "lastName": "Sayed",
-  "email": "blalhamd48@gmail.com",
+  "email": "blalhamd489@gmail.com",
   "phoneNumber": "01007656154"
 }
 ```
@@ -822,308 +770,35 @@ null
 ```json
 [
   {
-    "id": 1,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T01:55:22.5301152+03:00",
+    "id": 0,
+    "buyerEmail": "string",
+    "dateTime": "2024-12-03T06:36:02.690Z",
     "shippingAddress": {
-      "firstName": "Bilal",
-      "lastName": "Sayed",
-      "country": "EGY",
-      "cirt": "Fashn",
-      "street": "123 Nabil Street"
+      "firstName": "string",
+      "lastName": "string",
+      "country": "string",
+      "cirt": "string",
+      "street": "string"
     },
-    "deliveryMethodId": 1,
+    "deliveryMethodId": 0,
     "deliveryMethod": {
-      "shortName": "UPS1",
-      "cost": 10
-    },
-    "orderStatus": "Pending",
-    "items": [
-      {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 1
-      }
-    ],
-    "subTotal": 400,
-    "total": 410,
-    "paymentIntentId": ""
-  },
-  {
-    "id": 2,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T02:09:02.5803895+03:00",
-    "shippingAddress": {
-      "firstName": "Ahmed",
-      "lastName": "Tawfiq",
-      "country": "EGY",
-      "cirt": "Giza",
-      "street": "124 Moez st"
-    },
-    "deliveryMethodId": 2,
-    "deliveryMethod": {
-      "shortName": "UPS2",
-      "cost": 5
-    },
-    "orderStatus": "Pending",
-    "items": [
-      {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 2
-      },
-      {
-        "productId": 2,
-        "productName": "White Chocolate Mocha Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang2.png",
-        "price": 150,
-        "qunatity": 3,
-        "orderId": 2
-      }
-    ],
-    "subTotal": 850,
-    "total": 855,
-    "paymentIntentId": ""
-  },
-  {
-    "id": 3,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T02:21:52.1686189+03:00",
-    "shippingAddress": {
-      "firstName": "Kareem",
-      "lastName": "Azzam",
-      "country": "London",
-      "cirt": "Manchester",
-      "street": "121 st"
-    },
-    "deliveryMethodId": 3,
-    "deliveryMethod": {
-      "shortName": "UPS3",
-      "cost": 2
-    },
-    "orderStatus": "Pending",
-    "items": [
-      {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 3
-      },
-      {
-        "productId": 2,
-        "productName": "White Chocolate Mocha Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang2.png",
-        "price": 150,
-        "qunatity": 3,
-        "orderId": 3
-      }
-    ],
-    "subTotal": 850,
-    "total": 852,
-    "paymentIntentId": ""
-  },
-  {
-    "id": 4,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T02:24:47.7383391+03:00",
-    "shippingAddress": {
-      "firstName": "Ahmed",
-      "lastName": "Adel",
-      "country": "KSA",
-      "cirt": "RYADH",
-      "street": "156 st"
-    },
-    "deliveryMethodId": 3,
-    "deliveryMethod": {
-      "shortName": "UPS3",
-      "cost": 2
-    },
-    "orderStatus": "Pending",
-    "items": [
-      {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 4
-      },
-      {
-        "productId": 2,
-        "productName": "White Chocolate Mocha Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang2.png",
-        "price": 150,
-        "qunatity": 3,
-        "orderId": 4
-      }
-    ],
-    "subTotal": 850,
-    "total": 852,
-    "paymentIntentId": ""
-  },
-  {
-    "id": 5,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T02:26:38.6721377+03:00",
-    "shippingAddress": {
-      "firstName": "Hussien",
-      "lastName": "Sayed",
-      "country": "EGY",
-      "cirt": "Fashn",
-      "street": "123 Nabil Street"
-    },
-    "deliveryMethodId": 4,
-    "deliveryMethod": {
-      "shortName": "FREE",
+      "shortName": "string",
       "cost": 0
     },
-    "orderStatus": "Pending",
+    "orderStatus": "string",
     "items": [
       {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 5
-      },
-      {
-        "productId": 2,
-        "productName": "White Chocolate Mocha Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang2.png",
-        "price": 150,
-        "qunatity": 3,
-        "orderId": 5
+        "productId": 0,
+        "productName": "string",
+        "pictureUrl": "string",
+        "price": 0,
+        "qunatity": 0,
+        "orderId": 0
       }
     ],
-    "subTotal": 850,
-    "total": 850,
-    "paymentIntentId": ""
-  },
-  {
-    "id": 6,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T02:28:55.9518136+03:00",
-    "shippingAddress": {
-      "firstName": "Momen",
-      "lastName": "Sayed",
-      "country": "EGY",
-      "cirt": "Fashn",
-      "street": "123 Nabil Street"
-    },
-    "deliveryMethodId": 4,
-    "deliveryMethod": {
-      "shortName": "FREE",
-      "cost": 0
-    },
-    "orderStatus": "Pending",
-    "items": [
-      {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 6
-      },
-      {
-        "productId": 2,
-        "productName": "White Chocolate Mocha Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang2.png",
-        "price": 150,
-        "qunatity": 3,
-        "orderId": 6
-      }
-    ],
-    "subTotal": 850,
-    "total": 850,
-    "paymentIntentId": ""
-  },
-  {
-    "id": 7,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T14:40:08.8520547+03:00",
-    "shippingAddress": {
-      "firstName": "Abdo",
-      "lastName": "Adel",
-      "country": "Portogal",
-      "cirt": "shpona",
-      "street": "cr7 st"
-    },
-    "deliveryMethodId": 3,
-    "deliveryMethod": {
-      "shortName": "UPS3",
-      "cost": 2
-    },
-    "orderStatus": "Pending",
-    "items": [
-      {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 7
-      },
-      {
-        "productId": 2,
-        "productName": "White Chocolate Mocha Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang2.png",
-        "price": 150,
-        "qunatity": 3,
-        "orderId": 7
-      }
-    ],
-    "subTotal": 850,
-    "total": 852,
-    "paymentIntentId": ""
-  },
-  {
-    "id": 8,
-    "buyerEmail": "blalhamd48@gmail.com",
-    "dateTime": "2024-10-14T15:18:16.7612885+03:00",
-    "shippingAddress": {
-      "firstName": "Mohamed",
-      "lastName": "Maher",
-      "country": "EGYPT",
-      "cirt": "Fashn",
-      "street": "121 st"
-    },
-    "deliveryMethodId": 4,
-    "deliveryMethod": {
-      "shortName": "FREE",
-      "cost": 0
-    },
-    "orderStatus": "Pending",
-    "items": [
-      {
-        "productId": 1,
-        "productName": "Double Caramel Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-        "price": 200,
-        "qunatity": 2,
-        "orderId": 8
-      },
-      {
-        "productId": 2,
-        "productName": "White Chocolate Mocha Frappuccino",
-        "pictureUrl": "http://localhost:44826/images/products/sb-ang2.png",
-        "price": 150,
-        "qunatity": 3,
-        "orderId": 8
-      }
-    ],
-    "subTotal": 850,
-    "total": 850,
-    "paymentIntentId": ""
+    "subTotal": 0,
+    "total": 0,
+    "paymentIntentId": "string"
   }
 ]
 ```
@@ -1148,35 +823,35 @@ null
 
 ```json
 {
-  "id": 1,
-  "buyerEmail": "blalhamd48@gmail.com",
-  "dateTime": "2024-10-14T01:55:22.5301152+03:00",
+  "id": 0,
+  "buyerEmail": "string",
+  "dateTime": "2024-12-03T06:36:02.690Z",
   "shippingAddress": {
-    "firstName": "Bilal",
-    "lastName": "Sayed",
-    "country": "EGY",
-    "cirt": "Fashn",
-    "street": "123 Nabil Street"
+    "firstName": "string",
+    "lastName": "string",
+    "country": "string",
+    "cirt": "string",
+    "street": "string"
   },
-  "deliveryMethodId": 1,
+  "deliveryMethodId": 0,
   "deliveryMethod": {
-    "shortName": "UPS1",
-    "cost": 10
+    "shortName": "string",
+    "cost": 0
   },
-  "orderStatus": "Pending",
+  "orderStatus": "string",
   "items": [
     {
-      "productId": 1,
-      "productName": "Double Caramel Frappuccino",
-      "pictureUrl": "http://localhost:44826/images/products/sb-ang1.png",
-      "price": 200,
-      "qunatity": 2,
-      "orderId": 1
+      "productId": 0,
+      "productName": "string",
+      "pictureUrl": "string",
+      "price": 0,
+      "qunatity": 0,
+      "orderId": 0
     }
   ],
-  "subTotal": 400,
-  "total": 410,
-  "paymentIntentId": ""
+  "subTotal": 0,
+  "total": 0,
+  "paymentIntentId": "string"
 }
 ```
 
@@ -1201,32 +876,11 @@ null
 ```json
 [
   {
-    "id": 1,
-    "shortName": "UPS1",
-    "description": "Fastest delivery time",
-    "cost": 10,
-    "deliveryTime": "1-2 Days"
-  },
-  {
-    "id": 2,
-    "shortName": "UPS2",
-    "description": "Get it within 5 days",
-    "cost": 5,
-    "deliveryTime": "2-5 Days"
-  },
-  {
-    "id": 3,
-    "shortName": "UPS3",
-    "description": "Slower but cheap",
-    "cost": 2,
-    "deliveryTime": "5-10 Days"
-  },
-  {
-    "id": 4,
-    "shortName": "FREE",
-    "description": "Free! You get what you pay for",
+    "id": 0,
+    "shortName": "string",
+    "description": "string",
     "cost": 0,
-    "deliveryTime": "1-2 Weeks"
+    "deliveryTime": "string"
   }
 ]
 ```
@@ -1406,46 +1060,10 @@ curl  --location '{{Baseurl}}/api/Authentication/Login' \
 ```json
 [
   {
-    "id": 1,
-    "name": "Admin",
-    "isDeleted": false,
-    "permissions": null
-  },
-  {
-    "id": 2,
-    "name": "HR",
-    "isDeleted": false,
-    "permissions": null
-  },
-  {
-    "id": 3,
-    "name": "Manager",
-    "isDeleted": false,
-    "permissions": null
-  },
-  {
-    "id": 4,
-    "name": "Member",
-    "isDeleted": false,
-    "permissions": null
-  },
-  {
-    "id": 5,
-    "name": "Senior",
-    "isDeleted": false,
-    "permissions": null
-  },
-  {
-    "id": 6,
-    "name": "TeamLead",
-    "isDeleted": false,
-    "permissions": null
-  },
-  {
-    "id": 8,
-    "name": "CEO",
-    "isDeleted": false,
-    "permissions": null
+    "id": 0,
+    "name": "string",
+    "isDeleted": true,
+    "permissions": ["string"]
   }
 ]
 ```
@@ -1483,10 +1101,10 @@ curl  --location '{{Baseurl}}/api/Authentication/Login' \
 
 ```json
 {
-  "id": 1,
-  "name": "Admin",
-  "isDeleted": false,
-  "permissions": null
+  "id": 0,
+  "name": "string",
+  "isDeleted": true,
+  "permissions": ["string"]
 }
 ```
 
@@ -1645,142 +1263,17 @@ null
 ```json
 [
   {
-    "id": 1,
-    "firstName": "Bilal",
-    "lastName": "Sayed",
-    "email": "blalhamd48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Admin", "Senior", "TeamLead"]
-  },
-  {
-    "id": 3,
-    "firstName": "Ahmed",
-    "lastName": "Khatab",
-    "email": "AhmedKhatab45@gmail.com",
-    "isDisabled": false,
-    "roles": []
-  },
-  {
-    "id": 4,
-    "firstName": "Admin",
-    "lastName": "Admin",
-    "email": "Admin48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Admin"]
-  },
-  {
-    "id": 5,
-    "firstName": "Khaled",
-    "lastName": "Nady",
-    "email": "blalsy682@gmail.com",
-    "isDisabled": false,
-    "roles": ["Senior"]
-  },
-  {
-    "id": 6,
-    "firstName": "Shimaa",
-    "lastName": "Sayed",
-    "email": "Shimaa48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Member"]
-  },
-  {
-    "id": 7,
-    "firstName": "Tameem",
-    "lastName": "Mohamed",
-    "email": "Tameem48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Member"]
-  },
-  {
-    "id": 11,
-    "firstName": "blal",
-    "lastName": "sy",
-    "email": "blalsy681@gmail.com",
-    "isDisabled": false,
-    "roles": ["Member"]
-  },
-  {
-    "id": 1009,
-    "firstName": "Ahmed",
-    "lastName": "Abdo",
-    "email": "Ahmed34@gmail.com",
-    "isDisabled": false,
-    "roles": []
+    "id": 0,
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "isDisabled": true,
+    "roles": ["string"]
   }
 ]
 ```
 
-### Response: 200
-
-```json
-[
-  {
-    "id": 1,
-    "firstName": "Bilal",
-    "lastName": "Sayed",
-    "email": "blalhamd48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Admin", "Senior", "TeamLead"]
-  },
-  {
-    "id": 3,
-    "firstName": "Ahmed",
-    "lastName": "Khatab",
-    "email": "AhmedKhatab45@gmail.com",
-    "isDisabled": false,
-    "roles": []
-  },
-  {
-    "id": 4,
-    "firstName": "Admin",
-    "lastName": "Admin",
-    "email": "Admin48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Admin"]
-  },
-  {
-    "id": 5,
-    "firstName": "Khaled",
-    "lastName": "Nady",
-    "email": "blalsy682@gmail.com",
-    "isDisabled": false,
-    "roles": ["Senior"]
-  },
-  {
-    "id": 6,
-    "firstName": "Shimaa",
-    "lastName": "Sayed",
-    "email": "Shimaa48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Member"]
-  },
-  {
-    "id": 7,
-    "firstName": "Tameem",
-    "lastName": "Mohamed",
-    "email": "Tameem48@gmail.com",
-    "isDisabled": false,
-    "roles": ["Member"]
-  },
-  {
-    "id": 11,
-    "firstName": "blal",
-    "lastName": "sy",
-    "email": "blalsy681@gmail.com",
-    "isDisabled": false,
-    "roles": ["Member"]
-  },
-  {
-    "id": 1009,
-    "firstName": "Ahmed",
-    "lastName": "Abdo",
-    "email": "Ahmed34@gmail.com",
-    "isDisabled": false,
-    "roles": []
-  }
-]
-```
+````
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 
@@ -1799,7 +1292,7 @@ null
   "isDisabled": true,
   "roles": ["string"]
 }
-```
+````
 
 ### Method: GET
 
@@ -1817,12 +1310,12 @@ null
 
 ```json
 {
-  "id": 1,
-  "firstName": "Bilal",
-  "lastName": "Sayed",
-  "email": "blalhamd48@gmail.com",
-  "isDisabled": false,
-  "roles": ["Admin", "Senior", "TeamLead"]
+  "id": 0,
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "isDisabled": true,
+  "roles": ["string"]
 }
 ```
 
