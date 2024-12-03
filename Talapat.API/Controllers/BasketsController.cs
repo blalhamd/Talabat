@@ -1,7 +1,7 @@
 ﻿namespace Talabat.API.Controllers
 {
-	[EnableRateLimiting(policyName: RateLimiterType.Concurrency)]
-	public class BasketsController : ApiBaseController
+    [EnableRateLimiting(policyName: RateLimiterType.Concurrency)]
+    public class BasketsController : ApiBaseController
     {
         private readonly IBasketService _BasketService;
 

@@ -1,6 +1,6 @@
 ﻿namespace Talabat.API.Controllers
 {
-	[Cached(duration: 600)]
+    [Cached(duration: 600)]
     [EnableRateLimiting(policyName: RateLimiterType.Concurrency)]
 	public class BrandsController : ApiBaseController
     {
