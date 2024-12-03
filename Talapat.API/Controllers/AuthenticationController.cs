@@ -9,6 +9,8 @@
         }
 
         [HttpPost("Login")]
+		[ProducesResponseType(type: typeof(LoginResponse),StatusCodes.Status200OK)]
+		[ProducesResponseType(type: typeof(CustomResponse),StatusCodes.Status400BadRequest)]
         public async Task<LoginResponse> Login(LoginRequest loginRequest)
         {
             return await _authenticationService.Login(loginRequest);
